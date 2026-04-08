@@ -1,0 +1,78 @@
+================================================================================
+                DISCIPLINARE LEGALE E DICHIARAZIONE DI CONFORMITÀ
+                      PROGETTO: TRATTO PASSWORD SICURE
+================================================================================
+
+1. TITOLARITÀ E PROPRIETÀ INTELLETTUALE
+---------------------------------------
+Il software denominato "Tratto Password Sicure" (di seguito "il Software") è 
+un'opera dell'ingegno originale di natura creativa, protetta dalle leggi 
+nazionali e internazionali sul diritto d'autore e sulla proprietà intellettuale.
+
+- Autore: Francesco Piroddi
+- Titolare dei Diritti: Francesco Piroddi
+- Identificativo Fiscale: PRDFNC94L03E441D
+- Copyright: © 2026 Francesco Piroddi. Tutti i diritti riservati.
+
+La tutela si estende integralmente al codice sorgente Python, all'architettura 
+logica, agli algoritmi di sicurezza implementati, alla documentazione tecnica 
+correlata e alla specifica interfaccia grafica (GUI) in stile "Black & White" 
+progettata tramite il framework CustomTkinter.
+
+2. REGIME DI LICENZA
+--------------------
+Il Software è rilasciato e disciplinato sotto i termini della licenza:
+GNU General Public License (GPL) Versione 3.0.
+
+L'utente è autorizzato a copiare, modificare e ridistribuire il Software 
+esclusivamente secondo i termini stabiliti dalla GPL v3.0, garantendo che 
+la titolarità originale di Francesco Piroddi resti inalienabile e citata.
+
+3. CONFORMITÀ LEGISLATIVA E NORMATIVA
+-------------------------------------
+Lo sviluppo del Software osserva rigorosamente i seguenti quadri giuridici:
+
+A. Repubblica Italiana:
+   - Legge 22 aprile 1941, n. 633 (Protezione del diritto d'autore).
+   - D.Lgs. 196/2003 e successive modifiche (Codice in materia di protezione 
+     dei dati personali).
+
+B. Unione Europea:
+   - Regolamento (UE) 2016/679 (GDPR - General Data Protection Regulation).
+   - Protocolli di Cyber-Security dell'Agenzia dell'Unione Europea per la 
+     Cibersicurezza (ENISA).
+
+C. Ambito Globale e Internazionale:
+   - Convenzione di Berna per la protezione delle opere letterarie e artistiche.
+   - Trattato WIPO (World Intellectual Property Organization) sul copyright.
+
+4. RISPETTO DEGLI STANDARD TECNICI
+----------------------------------
+"Tratto Password Sicure" è programmato in aderenza ai seguenti standard:
+
+- Standard Nazionali ed Europei (UE) per lo sviluppo di software sicuro.
+- Standard Globali e Internazionali ISO/IEC 27001 (Security Management).
+- Standard NIST (National Institute of Standards and Technology) SP 800-90A 
+  per l'implementazione di generatori di numeri casuali crittograficamente 
+  sicuri (CSPRNG).
+- Requisiti di accessibilità e contrasto cromatico ad alta visibilità.
+
+5. ARCHITETTURA DI SICUREZZA (Privacy by Design)
+------------------------------------------------
+In conformità con il principio di minimizzazione dei dati (GDPR), il Software 
+è strutturato per operare in modalità locale e isolata (Zero-Knowledge). 
+Il Software non effettua raccolta, memorizzazione o trasmissione di dati 
+sensibili o password generate verso server esterni o sistemi cloud, 
+mantenendo la totale sovranità digitale dell'utente finale.
+
+6. ESCLUSIONE DI RESPONSABILITÀ
+-------------------------------
+Come previsto dalle clausole della licenza GNU GPL v3.0, il Software viene 
+fornito "così com'è", senza garanzie di alcun tipo. Il Titolare declina ogni 
+responsabilità per danni diretti o indiretti derivanti dall'uso o 
+dall'impossibilità di utilizzo del Software.
+
+================================================================================
+DATA DOCUMENTO: 08 Aprile 2026
+AUTENTICAZIONE: Francesco Piroddi (CF: PRDFNC94L03E441D)
+================================================================================

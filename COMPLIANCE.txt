@@ -1,0 +1,65 @@
+================================================================================
+                ATTESTAZIONE DI CONFORMITÀ (COMPLIANCE)
+                    PROGETTO: TRATTO PASSWORD SICURE
+================================================================================
+
+1. SCHEDA IDENTIFICATIVA DEL SOFTWARE
+-------------------------------------
+Nome del Progetto: Tratto Password Sicure
+Categoria: Cybersecurity / Strumenti di Sicurezza Crittografica
+Linguaggio di Programmazione: Python 3.10+
+Framework Interfaccia: CustomTkinter
+Stile Visuale: Black & White High-Contrast Interface
+Autore: Francesco Piroddi
+Titolare Unico: Francesco Piroddi
+Codice Fiscale: PRDFNC94L03E441D
+Copyright: © 2026 Francesco Piroddi. Tutti i diritti riservati.
+
+2. QUADRO DI CONFORMITÀ LEGISLATIVA
+-----------------------------------
+Il software "Tratto Password Sicure" è sviluppato in piena osservanza dei 
+seguenti ordinamenti giuridici:
+
+- REPUBBLICA ITALIANA: Conformità alla Legge 22 aprile 1941, n. 633 (Diritto 
+  d'Autore) e alle disposizioni del Codice dell'Amministrazione Digitale (CAD).
+- UNIONE EUROPEA: Piena aderenza al Regolamento (UE) 2016/679 (GDPR). Il 
+  software implementa nativamente i protocolli di "Privacy by Design" e 
+  "Privacy by Default".
+- LEGISLATURE GLOBALI E INTERNAZIONALI: Rispetto delle direttive WIPO (World 
+  Intellectual Property Organization) e degli accordi internazionali sulla 
+  protezione del software e delle tecnologie di crittografia ad uso civile.
+
+3. ADERENZA AGLI STANDARD TECNICI DI SETTORE
+--------------------------------------------
+Si attesta che il software rispetta i seguenti standard tecnici:
+
+- STANDARD CRITTOGRAFICI: Generazione di segreti tramite algoritmi CSPRNG 
+  (Cryptographically Secure Pseudo-Random Number Generator) in conformità con 
+  lo Standard NIST SP 800-90A (Global Standard).
+- GESTIONE DELLA SICUREZZA: Allineamento agli Standard ISO/IEC 27001 
+  (International Standard) per l'integrità e la riservatezza dei dati.
+- STANDARD DI ACCESSIBILITÀ: L'aspetto grafico "Black & White" soddisfa i 
+  requisiti di alto contrasto cromatico stabiliti dagli standard nazionali 
+  ed internazionali per l'usabilità del software di sicurezza.
+
+4. PROPRIETÀ INTELLETTUALE E LICENZA
+------------------------------------
+- REGIME PROPRIETARIO: Il codice sorgente, l'architettura logica e il design 
+  visivo sono proprietà intellettuale esclusiva di Francesco Piroddi.
+- LICENZA SOFTWARE: Il software è distribuito sotto GNU General Public 
+  License (GPL) Versione 3.0. Questa scelta garantisce la massima trasparenza 
+  e verificabilità del codice da parte degli enti di controllo.
+
+5. DICHIARAZIONE DI INTEGRITÀ (ZERO-DATA POLICY)
+------------------------------------------------
+Si certifica ufficialmente che "Tratto Password Sicure":
+1. NON effettua alcun tipo di raccolta, tracciamento o profilazione dati.
+2. NON richiede connettività di rete, operando esclusivamente offline.
+3. NON memorizza le password generate né in registri locali né remoti, 
+   garantendo la totale sovranità digitale del Titolare e dell'Utente.
+
+================================================================================
+AUTORITÀ FIRMATARIA: Francesco Piroddi
+DATA DI EMISSIONE: 08 Aprile 2026
+IDENTIFICATIVO UNIVOCO: CF PRDFNC94L03E441D
+================================================================================
